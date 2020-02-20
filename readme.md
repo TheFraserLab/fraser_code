@@ -14,11 +14,11 @@ We organize our code by topics, one per folder with each containing its own read
 
 We currently cover the following topics:
 
-- [compbio_snippets](./compbio_snippets) — miscellaneous code used to solve common bionformatic issues (e.g. dealing with bam files).
-- [config_files](./config_files) — config files for common software, e.g. vim, bash, etc.
-- [gtex](./gtex) — code to process and access [GTEx](https://gtexportal.org/home/) data.
-- [plots](./plots) — whether it's R or python we have a solution for your visualization task.
-- [tcga](./tcga) - code to process and access [TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) data.
+- [compbio_snippets](compbio_snippets) — miscellaneous code used to solve common bionformatic issues (e.g. dealing with bam files).
+- [config_files](config_files) — config files for common software, e.g. vim, bash, etc.
+- [gtex](gtex) — code to process and access [GTEx](https://gtexportal.org/home/) data.
+- [plots](plots) — whether it's R or python we have a solution for your visualization task.
+- [tcga](tcga) - code to process and access [TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) data.
 - [workflows](./workflows) — a collection of our pipelines in snakemake or nextflow.
 
 ## Contribute
