@@ -63,18 +63,18 @@ While we provide general guidelines that all code should follow, each folder may
 
 ### Documentation
 - All functions/scripts must contain:
- - A brief description of what they do.
- - Explanation of inputs, outputs, and arguments.
- - List of dependencies.
- - An example, if possible.
+	- A brief description of what they do.
+	- Explanation of inputs, outputs, and arguments.
+	- List of dependencies.
+	- An example, if possible.
 - Follow these conventions:
- - Python
-     - Docstrings ([any style](https://stackoverflow.com/questions/3898572/what-is-the-standard-python-docstring-format?answertab=active#tab-top) is ok).
-     - [Type hints](https://docs.python.org/3/library/typing.html) are not required but highly recommended.
- - R
-     - [roxygen](https://r-pkgs.org/man.html#roxygen-comments).
- - shell/bash
-     - (suggestions?).
-- Workflows
-  - Include the description along a brief description of important steps included in the pipeline that can be useful to other people (e.g. mapping reads).
-  - See the corresponding folder for more details.
+	- Python
+		- Docstrings ([any style](https://stackoverflow.com/questions/3898572/what-is-the-standard-python-docstring-format?answertab=active#tab-top) is ok).
+		- [Type hints](https://docs.python.org/3/library/typing.html) are not required but highly recommended.
+	- R
+		- [roxygen](https://r-pkgs.org/man.html#roxygen-comments).
+	- shell/bash
+		- (suggestions?).
+	- Workflows
+		- Include the description along a brief description of important steps included in the pipeline that can be useful to other people (e.g. mapping reads).
+		- See the corresponding folder for more details.
