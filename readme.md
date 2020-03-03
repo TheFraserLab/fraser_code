@@ -25,6 +25,8 @@ We currently cover the following topics:
 
 We ask you to fork the repo to your own account, make changes and then perform a pull request.
 
+Members of the Fraser Lab have direct writing access to the repo, so there is no need to fork/pull-request.
+
 **Please read the guidelines below before submitting a pull request**
 
 ### Step-by-step process
@@ -54,10 +56,10 @@ We ask you to fork the repo to your own account, make changes and then perform a
 
 ## Guidelines
 
-While we provide general guidelines that all code should follow, each folder may have its specific guidelines, so please make sure to take a review the corresponding readme.
+While we provide general guidelines that all code should follow, each folder may have its own specific guidelines, so please make sure to take a review the corresponding readme.
 
 ### Content
-- One file per issue, and if possible one function per file. *Each file should only contain code to solve a **specifc** task. Multiple function are allowed only if they are all contributing to the same issue. Please avoid submitting a "collection" of. functions*
+- One file per issue, and if possible one function per file. *Each file should only contain code to solve a **specifc** task. Multiple functions are allowed only if they are all contributing to the same issue. Please avoid submitting a "collection" of functions*
 - Each file and its description has to be included in the lookup list of the corresponding folder's readme.
 - Workflows should be in the format of a pipelining software like nextflow or snakemake. We only include links to their corresponding repos (i.e. your pipeline repo).
 
